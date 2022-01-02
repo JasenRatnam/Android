@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!--Action button on the action bar on the grades activity
+        Used to convert grades to letter or number-->
+    <item android:id="@+id/action_gradeButton"
+        android:title="Convert Grades"
+        app:showAsAction="never"/>
+</menu>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Grades Management App</string>
+    <string name="saveToast">Saved</string>
+    <string name="ageErrorToast">User has to be between 18 and 99</string>
+    <string name="fillTextToast">Please fill up all cells</string>
+    <string name="profilePreferencesKey">ProfilePreference</string>
+    <string name="profileName">profileName</string>
+    <string name="profileAge">profileAge</string>
+    <string name="profileID">profileID</string>
+    <string name="createProfileToast">Please fill all cells</string>
+</resources>

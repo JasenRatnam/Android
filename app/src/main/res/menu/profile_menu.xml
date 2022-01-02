@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!--Action button on the action bar on the profile activity
+       Used to edit the profile-->
+    <item android:id="@+id/action_profileButton"
+        android:title="Edit"
+        app:showAsAction="never"/>
+
+</menu>

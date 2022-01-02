@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".gradeActivity">
+
+    <!--List view of grades on the activity
+        Red colour dividers for every course-->
+    <ListView
+        android:id="@+id/gradesListView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@color/red_FF"
+        android:dividerHeight="2dp" />
+</RelativeLayout>
